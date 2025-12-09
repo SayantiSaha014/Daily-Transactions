@@ -21,23 +21,14 @@ predictive models and make data-driven decisions.
 
 # 📄 Dataset Column Descriptions:
 
-● Date: The date and time when the transaction was made
-
-● Mode: The payment mode used for the transaction
-
-● Category: Each record is divided into a set of categories of transactions
-
-● Subcategory: Categories are further broken down into Subcategories of
-transactions
-
-● Note: A brief description of the transaction made
-
-● Amount: The transactional amount
-
-● Income/Expense: The indicator of each transaction representing either expense
-or income
-
-● Currency: All transactions are recorded in official currency of India
+- **Date :** *The date and time when the transaction was made*
+- **Mode :** *The payment mode used for the transaction*
+- **Category :** *Each record is divided into a set of categories of transactions*
+- **Subcategory :** *Categories are further broken down into Subcategories of transactions*
+- **Note :** *A brief description of the transaction made*
+- **Amount :** *The transactional amount*
+- **Income/Expense :** *The indicator of each transaction representing either an expense or income*
+- **Currency :** *All transactions are recorded in official currency of India*
 
 # 🗂 Dataset
 Here we can access the dataset used in the project.  
