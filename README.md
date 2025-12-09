@@ -9,7 +9,7 @@
 
 # 📜 Introduction
 
-The "Daily Transactions" dataset contains information on dummy transactions made by
+The "Daily Transactions" dataset contains information on transactions made by
 an individual on a daily basis. The dataset includes data on the products that were
 purchased, the amount spent on each product, the date and time of each transaction,
 the payment mode of each transaction, and the source of each record
