@@ -31,8 +31,7 @@ predictive models and make data-driven decisions.
 - **Currency :** *All transactions are recorded in official currency of India*
 
 # 🗂 Dataset
-Here we can access the dataset used in the project.  
-[Dataset](Daily Household Transactions.csv)
+The project dataset is already provided in the repository of Daily Transactions in .csv format, so we can access it from there.  
 
 # 🛠 Technology Stack
 
